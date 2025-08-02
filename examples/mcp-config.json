@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "typescript-analyzer": {
+      "command": "./mcp-typescript-assistant",
+      "args": [],
+      "env": {
+        "DEBUG": "false"
+      }
+    }
+  }
+}
